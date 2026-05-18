@@ -13,7 +13,7 @@
   └─────────────────────────────────────────────────────────────────────────┘
 -->
 
-# [[ Course title ]]
+# Molecular Visualisation with Blender
 
 > [[ One-line description — what students will be able to do after the course. ]]
 
@@ -25,12 +25,12 @@
 
 |                      |                                          |
 | -------------------- | ---------------------------------------- |
-| **Level**            | [[ BSc / MSc / PhD / Continuing Ed ]]   |
-| **ECTS**             | [[ 5 / 7.5 / 10 ]]                      |
-| **Language**         | [[ English / Danish ]]                  |
-| **Next run**         | [[ Spring 2026 ]]                       |
-| **Prerequisites**    | [[ Basic Python, introductory stats ]]  |
-| **Teacher**          | [[ Your name ]] · [[ email ]]           |
+| **Level**            | PhD / Lifelong Learning   |
+| **ECTS**             | Variable                     |
+| **Language**         | English                  |
+| **Next run**         | July 2026                    |
+| **Prerequisites**    | Basic knowledge of the PDB |
+| **Teacher**          | Jonas Verhellen · Icaro Simon      |
 
 ---
 
