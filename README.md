@@ -13,9 +13,9 @@
   └─────────────────────────────────────────────────────────────────────────┘
 -->
 
-# Molecular Visualisation with Blender
+# From Atoms to Animation: 3D Molecular Visualisation with Blender
 
-> [[ One-line description — what students will be able to do after the course. ]]
+> Turn molecular data from the PDB and molecular dynamics simulations into animation with blender.
 
 **Part of [CPDSE](https://cpdse.dk) — Center for Pharmaceutical Data Science Education.**
 
@@ -28,7 +28,7 @@
 | **Level**            | PhD / Lifelong Learning   |
 | **ECTS**             | Variable                     |
 | **Language**         | English                  |
-| **Next run**         | July 2026                    |
+| **Next run**         | July 2026     (ULLA summer school)               |
 | **Prerequisites**    | Basic knowledge of the PDB |
 | **Teacher**          | Jonas Verhellen · Icaro Simon      |
 
@@ -38,10 +38,10 @@
 
 By the end of this course, students will be able to:
 
-- [[ Outcome 1 — use active verbs: *apply*, *evaluate*, *build*, *explain* ]]
-- [[ Outcome 2 ]]
-- [[ Outcome 3 ]]
-- [[ Outcome 4 ]]
+- Explain the common usecases of Blender in scientific visualisation. 
+- Use the basic interface of Blender to generate images and animations.
+- Use geometry nodes to procedurally generate scenes in Blender. 
+- Use molecular nodes to load in and process molecular data in Blender.
 
 ---
 
