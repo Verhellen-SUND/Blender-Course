@@ -30,7 +30,7 @@
 | **Language**         | English                  |
 | **Next run**         | July 2026     (ULLA summer school)               |
 | **Prerequisites**    | Basic knowledge of the PDB |
-| **Teacher**          | Jonas Verhellen · Icaro Simon      |
+| **Teacher**          | Jonas Verhellen · Icaro A. Simon      |
 
 ---
 
