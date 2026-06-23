@@ -1,19 +1,24 @@
 cff-version: 1.2.0
 message: "If you use these materials in teaching, research, or derived work, please cite as below."
-title: "[[ Course title ]]"
+title: "From Atoms to Animation: 3D Molecular Visualisation with Blender"
 abstract: "[[ One-paragraph description of the course and what it teaches. ]]"
 authors:
-  - family-names: "[[ Surname ]]"
-    given-names: "[[ Given name ]]"
-    affiliation: "CPDSE, [[ University of Copenhagen / University of Southern Denmark ]]"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Verhellen"
+    given-names: "Jonas"
+    affiliation: "CPDSE, University of Copenhagen"
+    orcid: "https://orcid.org/0000-0002-7465-7641"
+authors:
+  - family-names: "Simon"
+    given-names: "Icaro A."
+    affiliation: "CPDSE, University of Copenhagen"
+    orcid: "https://orcid.org/0000-0003-4550-4248"
 version: "2026.1"
-date-released: "2026-02-01"
+date-released: "2026-07-01"
 license: CC-BY-4.0
-url: "https://github.com/[[ your-org ]]/[[ your-repo ]]"
+url: "https://github.com/Verhellen-SUND/Blender-Course"
 keywords:
   - teaching
   - pharmaceutical data science
   - CPDSE
-  - "[[ domain keyword e.g. cheminformatics ]]"
-  - "[[ method keyword e.g. machine-learning ]]"
+  - Blender
+  - Molecular Visualisation
