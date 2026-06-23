@@ -25,6 +25,13 @@ By the end of this course, students will be able to:
 
 ---
 
+## Necessary Software
+
+- Blender (version 5.1.2 preferred, Installation information [here](https://www.blender.org/download/)) . 
+- Molecular nodes (Installation information [here](https://bradyajohnston.github.io/MolecularNodes/tutorials/installation.html)).
+
+---
+
 ## How to use this repository
 
 This repo contains both the slides, the blender files, and the html cheatsheet for this course. 
