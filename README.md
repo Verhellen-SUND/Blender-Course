@@ -68,7 +68,7 @@ explanation, please **open an
 ## Acknowledgements
 
 ---
-**Course made in the context of the eductational efforts of [CPDSE](https://cpdse.dk) — Center for Pharmaceutical Data Science Education.**
+**Course made in the context of the eductational efforts of [CPDSE](https://cpdse.dk): Center for Pharmaceutical Data Science Education.**
 
 Based on the [CPDSE course template](https://github.com/CPDSE-EDUX/cpdse-course-template).
 Field guide: https://cpdse-edux.github.io/cpdse-teaching-github/
