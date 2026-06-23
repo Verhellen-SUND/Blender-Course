@@ -1,12 +1,9 @@
 
 # From Atoms to Animation: 3D Molecular Visualisation with Blender
-
-> Turn molecular data from the PDB and molecular dynamics simulations into animation with blender.
-
+> The course website can be found [here](https://verhellen-sund.github.io/Blender-Course/)! 
 ---
+
 ![Alt text](images/Blender-Course-Banner.jpg) 
----
-**Course made in the context of the eductational efforts of [CPDSE](https://cpdse.dk) — Center for Pharmaceutical Data Science Education.**
 ---
 
 ## At a glance
@@ -20,7 +17,6 @@
 | **Prerequisites**    | Basic knowledge of the PDB |
 | **Teacher**          | Jonas Verhellen · Icaro A. Simon      |
 
----
 
 ## Learning outcomes
 
@@ -74,6 +70,9 @@ explanation, please **open an
 ---
 
 ## Acknowledgements
+
+---
+**Course made in the context of the eductational efforts of [CPDSE](https://cpdse.dk) — Center for Pharmaceutical Data Science Education.**
 
 Based on the [CPDSE course template](https://github.com/CPDSE-EDUX/cpdse-course-template).
 Field guide: https://cpdse-edux.github.io/cpdse-teaching-github/
