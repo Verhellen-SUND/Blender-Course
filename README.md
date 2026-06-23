@@ -61,7 +61,7 @@ in the right-hand sidebar.
 
 Students and colleagues: if you find a typo, a broken link, or an unclear
 explanation, please **open an
-[issue](../../issues)** — it's the fastest way to get a fix in for next year.
+[issue](../../issues)**. It's the fastest way to get a fix in for next year.
 
 ---
 
