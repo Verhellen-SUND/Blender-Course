@@ -1,26 +1,12 @@
-<!--
-  ┌─────────────────────────────────────────────────────────────────────────┐
-  │  YOU ARE LOOKING AT A COURSE TEMPLATE.                                 │
-  │                                                                         │
-  │  1. Click the green "Use this template → Create a new repository"      │
-  │     button at the top of this page on GitHub.                          │
-  │  2. Name your repo something like  chem-informatics-2026                │
-  │  3. Then replace every  [[ BRACKETED PLACEHOLDER ]]  in this README    │
-  │     with your own course details.                                       │
-  │  4. Delete this HTML comment block when you're done.                    │
-  │                                                                         │
-  │  Field guide → https://cpdse-edux.github.io/cpdse-teaching-github/      │
-  └─────────────────────────────────────────────────────────────────────────┘
--->
 
 # From Atoms to Animation: 3D Molecular Visualisation with Blender
 
 > Turn molecular data from the PDB and molecular dynamics simulations into animation with blender.
 
-**Course made in the context of the eductational efforts of [CPDSE](https://cpdse.dk) — Center for Pharmaceutical Data Science Education.**
 ---
-
-
+![Alt text](images/Blender-Course-Banner.jpg) 
+---
+**Course made in the context of the eductational efforts of [CPDSE](https://cpdse.dk) — Center for Pharmaceutical Data Science Education.**
 ---
 
 ## At a glance
