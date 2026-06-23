@@ -17,7 +17,7 @@
 
 > Turn molecular data from the PDB and molecular dynamics simulations into animation with blender.
 
-**Part of [CPDSE](https://cpdse.dk) — Center for Pharmaceutical Data Science Education.**
+**Course made in the context of [CPDSE](https://cpdse.dk) — Center for Pharmaceutical Data Science Education.**
 
 ---
 
@@ -55,10 +55,7 @@ By the end of this course, students will be able to:
 ├── CITATION.cff         How to cite this course.
 ├── CHANGELOG.md         What changed each semester.
 ├── slides/              Lecture PDFs, numbered in order.
-├── notebooks/           Jupyter / Quarto notebooks, numbered in order.
-├── data/                Small example datasets + data/README.md explaining each.
-├── assignments/         Student-facing exercise briefs (Markdown).
-├── solutions/           Instructor-only reference answers (often a separate repo).
+├── examples/            Example Blender files.
 └── images/              Reusable figures, diagrams, logos.
 ```
 
