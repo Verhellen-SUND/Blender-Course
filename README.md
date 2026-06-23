@@ -18,6 +18,8 @@
 > Turn molecular data from the PDB and molecular dynamics simulations into animation with blender.
 
 **Course made in the context of the eductational efforts of [CPDSE](https://cpdse.dk) — Center for Pharmaceutical Data Science Education.**
+---
+
 
 ---
 
