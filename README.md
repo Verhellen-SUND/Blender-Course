@@ -1,6 +1,6 @@
 
 # From Atoms to Animation: 3D Molecular Visualisation with Blender
-> The course website with Blender cheatsheet can be found [here](https://verhellen-sund.github.io/Blender-Course/)! 
+> The course website with interactive Blender cheatsheet can be found [here](https://verhellen-sund.github.io/Blender-Course/) and the animated slides can be found [here](https://www.canva.com/design/DAHKAo6LWRo/9ocV-u4yxyDtswUvdNfR9A/view?utm_content=DAHKAo6LWRo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbbe4134d6c)!
 
 ## At a glance
 
