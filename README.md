@@ -47,6 +47,8 @@ By the end of this course, students will be able to:
 
 ## How to use this repository
 
+This repo contains both the slides, the blender files, and the html cheatsheet for this course. 
+
 ```
 .
 ├── README.md            You are here.
@@ -59,43 +61,19 @@ By the end of this course, students will be able to:
 └── images/              Reusable figures, diagrams, logos.
 ```
 
----
-
-## How to run the notebooks
-
-The easiest path, for students:
-
-1. Open any notebook under `notebooks/` directly on GitHub to read it.
-2. To run it, click the **Open in Colab** badge at the top of each notebook, or:
-   ```bash
-   git clone https://github.com/[[ your-org ]]/[[ your-repo ]].git
-   cd [[ your-repo ]]
-   pip install -r requirements.txt   # if you add a requirements file
-   jupyter lab
-   ```
 
 ---
 
 ## Licence
 
-- **Teaching content** (slides, notebooks, assignments, text) — [CC BY 4.0](LICENSE).
+- **Teaching content** (slides, blender files) — [CC BY 4.0](LICENSE).
   Free to reuse and adapt, with credit.
-- **Code** (scripts, notebook code cells) — [MIT](LICENSE-code).
-
-If your institution mandates different licences, swap them in — but keep *something*.
-
 ---
 
 ## How to cite
 
 See [`CITATION.cff`](CITATION.cff). GitHub renders it as a "Cite this repository" button
 in the right-hand sidebar.
-
-```
-[[ Your-name ]]. ([[ Year ]]). [[ Course title ]].
-CPDSE — Center for Pharmaceutical Data Science Education.
-https://github.com/[[ your-org ]]/[[ your-repo ]]
-```
 
 ---
 
